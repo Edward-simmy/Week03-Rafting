@@ -1,53 +1,28 @@
-nav{
-    background-color: aqua;
-    padding: 10px;
+/* CSS HEX */
+h1,h2,p {font-family: 'Times New Roman', Times, serif;
+       color: #ffff;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: large;
+       text-align: justify;
 }
 
-nav a {
-    color: white;
-    display: block;
-    padding: 20px;
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-optical-sizing:
 }
 
-h1 {
-    color: aqua;
-}
+body{
+    padding: auto;
+    display: inline-block;
+    background-color: rgb(155, 240, 233);
 
-img {
-    width: 150px;
-    height: auto;
-    border: 1px solid black;
-    padding: 2px;
-    box-shadow: 0 0 30px gray;
-}
-
-p {
-    padding: 0px;
-}
-
-aside {
-    width: 20rem;
-    margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.2), /* 1 */ ;
-    padding : 1rem;
-    background-color: #eee;
-    color: #333;
-    text-align: centre;
-}
-
-aside img{
-    width: 200px;
-    height: auto;
-}
-
-main img{
-   width: 150px;
-   height: auto;
 
 }
 
 footer {
     margin: 15px;
-    border-top: 1px solid #000 ;
+    border-top: 4px solid #52d7f8 ;
     text-align: centre;
+    background-color: #3f3333;
 }
